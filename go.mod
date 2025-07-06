@@ -1,4 +1,4 @@
-module github.com/liyangosoft/ip2location-gos/v9
+module github.com/liyangosoft/ip2location-gos
 
 go 1.14
 
