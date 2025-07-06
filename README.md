@@ -8,6 +8,6 @@ This package can be used in many types of projects such as:
  - software export controls
  - display native language and currency 
  - prevent password sharing and abuse of service 
- - geotargeting in advertisement 
+ - geotargeting in advertisement  .
 
 
