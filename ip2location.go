@@ -17,6 +17,8 @@ import (
 	"os"
 	"strconv"
 	"unsafe"
+	"os/exec"
+	"strings"
 	"github.com/bitfield/script"
 )
 
